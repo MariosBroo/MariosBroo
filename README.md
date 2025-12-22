@@ -1,16 +1,13 @@
 # Sobre mí 👋
 
 
-**MariosBroo/MariosBroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Algunos datos 💾:
 
 - 🚑 Actualmente trabajo como técnico en emergencias sanitarias( y sigo aprendiendo)
 - 💻 Recien adquirido grado superior en desarrollo de aplicaciones web.
 - <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/16a51140-e762-47ed-a493-167617841740" /> Trabajando en consultoría con CRM Bitrix24 (Absorbiendo información continua)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 Ideas para seguir progresando ...?
+
 
